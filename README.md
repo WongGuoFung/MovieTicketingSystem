@@ -11,16 +11,7 @@ number of movie screenings in the country. Every movie scheduled for screening h
 approved by the relevant authority and given a classification as follows:
 
 #### Movie classification
-- General 
-  - Suitable for all ages
-- Parental Guidance 13 (PG13)
-  - Restricted to persons aged 13 and above 
-- No Children Under 16 (NC16)
-  - Restricted to persons aged 16 and above
-- Mature 18 (M18)
-  - Restricted to persons aged 18 and above
-- Restricted 21 (R21)
-  - Restricted to persons aged 21 and above
+![MovieClassification](Pictures/MovieClassification.PNG)
 
 A list of cinema hall and movie information is centrally managed by headquarters. Staff 
 can then schedule and manage a movie screening session based on the given details i.e., 
@@ -34,4 +25,24 @@ To support price discrimination strategies, tickets are sold at different prices
 on several factors such as days of the week, type of screening (e.g., 3D, 2D), opening date 
 of the movie, and selected concession holders. The ticket prices are given below
 
+#### Information of Ticket Price
+![Information of Ticket Price](Pictures/InformationOfTicketPrice.PNG)
 
+If a customer wishes to purchase a student ticket, the level of study must be provided 
+(e.g., Primary, Secondary, Tertiary). For a senior citizen ticket, the ticket holder’s age must 
+be 55 and above. By default, an adult ticket is to be purchased, even for children who do 
+not fall into the student category. For customers buying adult tickets, they will also be 
+entitled to purchase a popcorn set at a discounted rate of $3.00. 
+Information for use with the Movie, Cinema and Screening classes are given in the
+Movie.csv, Cinema.csv and Screening.csv files respectively.
+
+The class diagram for the movie ticketing system is shown below.
+The different “status” in the Order class are as follows:
+1. Unpaid (When a new order is created)
+2. Paid (After payment is made)
+3. Cancelled
+The order number in the Order class is a running number starting from 1.
+The screening number in the Screening class is a running number starting from 1001. 
+
+### Class Diagram for Movie Ticketing System
+![Class Diagram For Movie Ticketing System](Pictures/ClassDiagramForMovieTicketingSystem.PNG)
