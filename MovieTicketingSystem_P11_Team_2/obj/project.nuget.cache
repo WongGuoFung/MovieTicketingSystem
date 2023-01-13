@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m5NlAezlXugzPn3WUAFcborKYGB80AB31CuvYMr6mXHs26WBrkw4JSL2hVPXly1whUqBJPNTaMurQoDWhun/WA==",
+  "success": true,
+  "projectFilePath": "D:\\Semester 1.2\\PRG2 Programming (C#)\\Assignment\\MoveTicketingSystem\\MovieTicketingSystem_P11_Team_2\\MovieTicketingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

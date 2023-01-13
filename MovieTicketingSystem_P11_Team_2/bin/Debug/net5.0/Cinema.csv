@@ -1,0 +1,16 @@
+Name,Hall Number,Capacity
+Singa North,1,5
+Singa North,2,30
+Singa North,3,50
+Singa South,1,5
+Singa South,2,50
+Singa South,3,100
+Singa East,1,5
+Singa East,2,100
+Singa West,1,5
+Singa West,2,30
+Singa West,3,80
+Singa Central,1,5
+Singa Central,2,50
+Singa Central,3,80
+Singa Central,4,100
