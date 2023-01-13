@@ -33,3 +33,5 @@ categories. The ticket will only be sold if the age requirement is met
 To support price discrimination strategies, tickets are sold at different prices depending 
 on several factors such as days of the week, type of screening (e.g., 3D, 2D), opening date 
 of the movie, and selected concession holders. The ticket prices are given below
+
+
