@@ -45,4 +45,4 @@ The order number in the Order class is a running number starting from 1.
 The screening number in the Screening class is a running number starting from 1001. 
 
 ### Class Diagram for Movie Ticketing System
-![Class Diagram For Movie Ticketing System]([Pictures/ClassDiagramForMovieTicketingSystem.PNG](https://github.com/WongGuoFung/MovieTicketingSystem/blob/master/Pictures/ClassDiagramForMovieTicketingSystem.PNG))
+![Class Diagram For Movie Ticketing System](https://github.com/WongGuoFung/MovieTicketingSystem/blob/master/Pictures/ClassDiagramForMovieTicketingSystem.PNG))
