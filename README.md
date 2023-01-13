@@ -11,7 +11,7 @@ number of movie screenings in the country. Every movie scheduled for screening h
 approved by the relevant authority and given a classification as follows:
 
 #### Movie classification
-![MovieClassification](Pictures/MovieClassification.PNG)
+![MovieClassification](https://github.com/WongGuoFung/MovieTicketingSystem/blob/master/Pictures/MovieClassification.PNG)
 
 A list of cinema hall and movie information is centrally managed by headquarters. Staff 
 can then schedule and manage a movie screening session based on the given details i.e., 
@@ -26,7 +26,7 @@ on several factors such as days of the week, type of screening (e.g., 3D, 2D), o
 of the movie, and selected concession holders. The ticket prices are given below
 
 #### Information of Ticket Price
-![Information of Ticket Price](Pictures/InformationOfTicketPrice.PNG)
+![Information of Ticket Price](https://github.com/WongGuoFung/MovieTicketingSystem/blob/master/Pictures/InformationOfTicketPrice.PNG)
 
 If a customer wishes to purchase a student ticket, the level of study must be provided 
 (e.g., Primary, Secondary, Tertiary). For a senior citizen ticket, the ticket holder’s age must 
@@ -45,4 +45,4 @@ The order number in the Order class is a running number starting from 1.
 The screening number in the Screening class is a running number starting from 1001. 
 
 ### Class Diagram for Movie Ticketing System
-![Class Diagram For Movie Ticketing System](Pictures/ClassDiagramForMovieTicketingSystem.PNG)
+![Class Diagram For Movie Ticketing System]([Pictures/ClassDiagramForMovieTicketingSystem.PNG](https://github.com/WongGuoFung/MovieTicketingSystem/blob/master/Pictures/ClassDiagramForMovieTicketingSystem.PNG))
